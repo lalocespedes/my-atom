@@ -1,0 +1,12 @@
+"*":
+  "exception-reporting":
+    userId: "37d40139-2bda-7402-70ec-2d52044df38e"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+  emmet: {}
+  linter: {}
+  "atom-beautify":
+    _analyticsUserId: "4da5ec83-407b-4f41-bfea-1d359de372d2"
